@@ -1,6 +1,6 @@
 import section from './section.vue'
 
-const name = "hello-world";
+const name = "isometric_A";
 
 const addComponent = function () {
     if (window.vm) {
