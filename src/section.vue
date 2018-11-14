@@ -7,7 +7,7 @@
     <div class="isometric_A">
 
         <!-- wwManager:start -->
-        <wwSectionEditMenu v-bind:section="section"></wwSectionEditMenu>
+        <wwSectionEditMenu v-bind:sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
 
         <wwObject class="background" v-bind:ww-object="section.data.background" ww-category="background"></wwObject>
@@ -83,7 +83,6 @@ export default {
     },
     data() {
         return {
-            section: this.sectionCtrl.get(),
             activeCardIndex: 0,
             openCard: null,
             startAnim: false,
@@ -93,6 +92,9 @@ export default {
         }
     },
     computed: {
+        section() {
+            return this.sectionCtrl.get();
+        },
         getColumnCount() {
             return Math.ceil(this.section.data.cards.length / this.cardPerColumn)
         },
