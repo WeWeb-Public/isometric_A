@@ -133,7 +133,7 @@ export default {
     },
     methods: {
         initData() {
-            /*
+
             this.section.data = {
                 "text": {
                     "data": {
@@ -1597,7 +1597,7 @@ export default {
                     "wwVersion": 3
                 }
             };
-            */
+
 
             this.section.data.cards = this.section.data.cards || [];
 
