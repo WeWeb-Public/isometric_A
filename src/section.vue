@@ -76,7 +76,7 @@
 <!-- ✨ Here comes the magic ✨ -->
 <script>
 export default {
-    name: "isometric_A",
+    name: "__COMPONENT_NAME__",
     props: {
         sectionCtrl: Object
     },
