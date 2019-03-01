@@ -2,10 +2,10 @@ module.exports = [
     {
         name: 'isometric',
         storeName: {
-            en_GB: "Isometric"
+            en: "Isometric"
         },
         storeDesc: {
-            en_GB: "Animated isometric section"
+            en: "Animated isometric section"
         }
     }
 ]

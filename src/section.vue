@@ -153,7 +153,7 @@ export default {
                             "font": "sans-serif",
                             "size": 1.5,
                             "text": {
-                                "fr_FR": "Use it as a gateway to present your story, products or services."
+                                "fr": "Use it as a gateway to present your story, products or services."
                             },
                             "align": "",
                             "color": "#FFFFFF",
@@ -183,8 +183,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -229,8 +229,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -275,8 +275,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -321,8 +321,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -367,8 +367,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -413,8 +413,8 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "en_GB": "webeo",
-                                "fr_FR": "webeo"
+                                "en": "webeo",
+                                "fr": "webeo"
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/2/sections/gyUl8CvgISga5AXN4ZgDiA5jwG27nJSi.jpg",
                             "zoom": -1,
@@ -462,7 +462,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -494,7 +494,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -526,7 +526,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -558,7 +558,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -590,7 +590,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -622,7 +622,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                                "fr": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
                             },
                             "align": "",
                             "color": "",
@@ -654,7 +654,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 2.5,
                             "text": {
-                                "fr_FR": "This is the isometric section."
+                                "fr": "This is the isometric section."
                             },
                             "align": "",
                             "color": "#FFFFFF",
@@ -682,7 +682,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/public/images/urban/Manhattan.jpg",
                             "zoom": -1,
@@ -725,7 +725,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/46/sections/hhee5zfcfJdvjvCSRqnA3A61yj8zeQzC.jpg",
                             "zoom": -1,
@@ -768,7 +768,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/public/images/urban/EmpireStateView.jpg",
                             "zoom": -1,
@@ -811,7 +811,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/46/sections/u8fdyaW32v15uu8hJl1QQzENz5dq8HJR.jpg",
                             "zoom": -1,
@@ -854,7 +854,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/public/images/urban/NYCTimesSquare.jpg",
                             "zoom": -1,
@@ -897,7 +897,7 @@ export default {
                     "content": {
                         "data": {
                             "alt": {
-                                "fr_FR": ""
+                                "fr": ""
                             },
                             "url": "https://wewebprod.s3-eu-west-1.amazonaws.com/designs/46/sections/FeE0M4tmGgWctnzHTaIrYFr8Ms4zC2XW.jpg",
                             "zoom": -1,
@@ -944,7 +944,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -976,7 +976,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -1008,7 +1008,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -1040,7 +1040,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -1072,7 +1072,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -1104,7 +1104,7 @@ export default {
                             "font": "Oswald Regular",
                             "size": 1,
                             "text": {
-                                "fr_FR": "De Finibus Bonorum et Malorum"
+                                "fr": "De Finibus Bonorum et Malorum"
                             },
                             "align": "",
                             "color": "",
@@ -1136,7 +1136,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1174,7 +1174,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1212,7 +1212,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1250,7 +1250,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1288,7 +1288,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1326,7 +1326,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1364,7 +1364,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1402,7 +1402,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1440,7 +1440,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1478,7 +1478,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1516,7 +1516,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Learn more"
+                                "fr": "Learn more"
                             },
                             "align": "",
                             "color": "#676767",
@@ -1554,7 +1554,7 @@ export default {
                             "font": "",
                             "size": "",
                             "text": {
-                                "fr_FR": "Discover"
+                                "fr": "Discover"
                             },
                             "align": "",
                             "color": "#676767",
