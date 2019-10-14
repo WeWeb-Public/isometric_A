@@ -20,11 +20,11 @@
                 <div class="cards-container">
                     <div class="cards-column" :style="getColumnWidth" v-for="columnIndex in getColumnCount" :key="columnIndex">
                         <div class="card hover-transition" v-for="(card, index) in getCards(columnIndex - 1)" :key="card.uniqueId" :data-unique-id="card.uniqueId" @click="openPopup(card)" :class="{'active': activeCardIndex == index + (columnIndex-1)*3}">
-                            <img class="card-shadow" :src="require('./assets/isometricweweb_cardshadow.png')">
-                            <div class="p p4"/>
-                            <div class="p p3"/>
-                            <div class="p p2"/>
-                            <div class="p p1"/>
+                            <img class="card-shadow" :src="require('./assets/isometricweweb_cardshadow.png')" />
+                            <div class="p p4" />
+                            <div class="p p3" />
+                            <div class="p p2" />
+                            <div class="p p1" />
                             <wwObject class="preview" :ww-object="card.image" wwNoTwicPics="true"></wwObject>
                         </div>
                     </div>
@@ -215,7 +215,7 @@ export default {
             let pos = this.$el.querySelector(".cards-container").getBoundingClientRect();
 
             this.containerHeight = {
-                height: pos.height + 120 + "px"
+                minHeight: pos.height + 120 + "px"
             };
         },
 
